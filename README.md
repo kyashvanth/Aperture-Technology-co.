@@ -1,2 +1,1 @@
-# Aperture-Technology-co.
-My first Project
+Sample Java Applicaiton V3.90
